@@ -1,5 +1,6 @@
 # Talks knowledge base
-Links para as apresentação usadas em talks feitas ao redor do Brasil
+Links para as apresentação usadas em talks feitas ao redor do Brasil.
+
 Encontre um evento próximo a você: https://github.com/react-brasil/awesome-react-events-br
 
 ## Meetup React SP
